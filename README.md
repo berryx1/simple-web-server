@@ -21,7 +21,3 @@ This project demonstrates how to create a simple web server using Docker and Ngi
 * HTML/CSS
 
 
-
-## License
-This project is licensed under the MIT License.
-
